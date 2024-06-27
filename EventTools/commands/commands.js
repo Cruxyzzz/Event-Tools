@@ -17,6 +17,7 @@ register("command", (arg) => {
 
 const customKeybind = new KeyBind("/thru Keybind", Keyboard.KEY_NONE, "§6§lEventTools §f- Keybinds");
 
+//Thanks to Wekend for the /thru code.
 let teleport = false; 
 let distance = 8; 
 
