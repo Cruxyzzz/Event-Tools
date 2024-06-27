@@ -23,7 +23,7 @@ This ChatTriggers module is designed to enhance the experience of hosting events
 - /bp
 - /bpr
 - /font
-- /cmds (Shows the commands and their uses)
+- /EventToolsCommands (Shows the commands and their uses)
 
 # Installation
 - 1: Install ChatTriggers: Make sure you have ChatTriggers installed and set up in your Minecraft client.
