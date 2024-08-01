@@ -1,5 +1,4 @@
 # ChatTriggers Module for Hypixel Housing Event Hosts
-### Discord: Join our Discord Community https://discord.gg/tZxKhMN7XJ
 ## Overview
 This ChatTriggers module is designed to enhance the experience of hosting events in Hypixel's housing by providing useful commands and features for Housing Event Hosts.
 
